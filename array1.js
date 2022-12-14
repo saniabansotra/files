@@ -28,6 +28,6 @@ let a = ["Post 1", "Post 2", "Post 3", "Post 4", "Post 5"];
 // removing an element:-
 // a.pop();     removes last element
 console.log(a);
-for( index=0;index<5;index++){
+ for(index=0;index<5;index++){
     console.log(a[index]);
 }
