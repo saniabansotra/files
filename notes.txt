@@ -1,0 +1,8 @@
+                                         FOR LOOP
+
+1.Whenever we want to print an array element, we use for loop.
+2.whenever we want to print the code repeatedly.
+3. Whenever we want to implement a codes, which is to be updated after every iteration, we use for loop.We use the property of update in index after every iteration.
+4. for loop has a property, because of which the index gets updated after every iteration.
+E.g:-
+printing for loop.
