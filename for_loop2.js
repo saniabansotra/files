@@ -37,5 +37,5 @@ for(let a of array){
 }
 //The variable a starts from first element of array and goes to last by updating its value to next el3ement one by one.
 
-
+// for of loop is similar to array
   
