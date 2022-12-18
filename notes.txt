@@ -6,3 +6,19 @@
 4. for loop has a property, because of which the index gets updated after every iteration.
 E.g:-
 printing for loop.
+Iteration means one cycle of for loop before update of i.
+We can customize our own update algorithm i.e Update in value of i.
+
+
+        BREAK AND CONTINUE STATEMENT
+
+Break statement=> instantly terminates the for loop and come outside of it.
+Continue Statement=> Continue statement instantly sends code control to next update.
+continue terminates the whole for loop, but continue terminates the present iteration.
+
+
+     FOR OF LOOP
+
+1. For of loop is a special kind of loop which is used specially in case of array or similar data type.
+
+2. A similar kind of short for of loop can be achieved to do the same task.
